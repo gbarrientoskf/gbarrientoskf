@@ -13,10 +13,5 @@ You can click the Preview link to take a look at your changes.
 ![Azure](https://img.shields.io/badge/Azure-338eef?style=for-the-badge&logo=azure&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbarrientoskf&show_icons=true&theme=holi) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarrientoskf&langs_count=4&layout=compact)
-
   
 I also you can find me in my blog: [https://barrientos.io](https://barrientos.io)
